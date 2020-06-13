@@ -1,0 +1,28 @@
+{
+  "my_degrees": [
+    {
+      "degree": {
+        "school": "Shanghai International Studies University",
+        "major": "English Translation and Interpretation",
+        "type": "Bachelor of Arts",
+        "year": 2009
+      }
+    },
+    {
+      "degree": {
+        "school": "University of Washington",
+        "major": "International Studies",
+        "type": "Master of Arts",
+        "year": 2013
+      }
+    },
+    {
+      "degree": {
+        "school": "Boston University",
+        "major": "Online MS in Software Development",
+        "type": "Master of Science",
+        "year": 2020
+      }
+    }
+  ]
+}
