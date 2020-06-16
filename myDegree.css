@@ -1,0 +1,25 @@
+body{
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 12pt;
+    background-image: url("images/degreeBg.jpg");
+    text-align: center;
+}
+button{
+    color: white;
+    border-radius: 5px;
+}
+
+table th, td{
+    border: 1px solid black;
+    padding: 3px;
+}
+table{
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th{
+    background-color: lightsteelblue;
+    text-transform: uppercase;
+}
